@@ -1,0 +1,18 @@
+/*
+ * This is a sample configuration object for fs20Driver - actual config is passed to the constructor.
+ */
+
+{
+  "type": "FS20",
+  "port": "/dev/ttyAMC0",
+  "sensors": [
+    {
+      "id": "t3333",
+      "name": "office"
+    },
+    {
+      "id": "fe3d5",
+      "name": "pir"
+    }
+  ]
+}
