@@ -1,5 +1,5 @@
 {
-  "name": "nqmFS20Driver",
+  "name": "nqm-iot-fs20-driver",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
