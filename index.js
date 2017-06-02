@@ -1,3 +1,3 @@
 "use strict";
 
-exports.Driver = require("./lib/fs20Driver");
+exports.Driver = require("./lib/fs20-driver");
